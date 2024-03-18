@@ -1,5 +1,4 @@
-# readme
-readme
+
 <h1 align="center">Hello, I'm Shin</h1>
 <h3 align="center">A Beginner of “DATA ANALYST” & “DATA ENGINEER” / Experts Procurement and Material Planner</h3>
 
